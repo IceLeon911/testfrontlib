@@ -1,0 +1,20 @@
+{
+  library: [
+    {
+      name: "рп правила",
+      backImg: "rpRules",
+      levels: [
+        "https://github.com/Race454/netology-kurs/blob/main/README.md",
+        "https://github.com/Race454/netology-kurs/blob/main/README.md"
+      ]
+    },
+    {
+      name: "гайды",
+      backImg: "rpWork",
+      levels: [
+        "https://github.com/Race454/netology-kurs/blob/main/README.md",
+        "https://github.com/Race454/netology-kurs/blob/main/README.md"
+      ]
+    }
+  ]
+}
