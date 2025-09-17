@@ -3,17 +3,18 @@
     {
       "name": "рп правила",
       "backImg": "rpRules",
-      "levels": [
+      "svg": "ui",
+      "url": [
         "https://github.com/Race454/netology-kurs/blob/main/README.md",
-        "https://github.com/Race454/netology-kurs/blob/main/README.md"
+        "https://raw.githubusercontent.com/Race454/netology-kurs/refs/heads/main/Readme2.md"
       ]
     },
     {
       "name": "гайды",
       "backImg": "rpWork",
-      "levels": [
-        "https://github.com/Race454/netology-kurs/blob/main/README.md",
-        "https://github.com/Race454/netology-kurs/blob/main/README.md"
+      "svg": "guideScroll",
+      "url": [
+        "https://raw.githubusercontent.com/Race454/netology-kurs/refs/heads/main/Readme3.md"
       ]
     }
   ]
