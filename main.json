@@ -3,7 +3,7 @@
     {
       "name": "рп правила",
       "backImg": "rpRules",
-      "svg": "ui",
+      "icon": "ui",
       "url": [
         "https://raw.githubusercontent.com/Race454/netology-kurs/refs/heads/main/README.md",
         "https://raw.githubusercontent.com/Race454/netology-kurs/refs/heads/main/Readme2.md"
@@ -12,7 +12,7 @@
     {
       "name": "гайды",
       "backImg": "rpWork",
-      "svg": "guideScroll",
+      "icon": "guideScroll",
       "url": [
         "https://raw.githubusercontent.com/Race454/netology-kurs/refs/heads/main/Readme3.md"
       ]
