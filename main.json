@@ -5,12 +5,11 @@
       "backImg": "rpRules",
       "icon": "ui",
       "url": [
-        "https://raw.githubusercontent.com/Race454/netology-kurs/refs/heads/main/README.md",
-        "https://raw.githubusercontent.com/Race454/netology-kurs/refs/heads/main/Readme2.md"
+        "https://raw.githubusercontent.com/IceLeon911/testfrontlib/refs/heads/main/rules.md",
       ]
     },
     {
-      "name": "гайды",
+      "name": "Руководство",
       "backImg": "rpWork",
       "icon": "guideScroll",
       "url": [
